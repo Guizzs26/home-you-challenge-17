@@ -181,6 +181,9 @@ h3 {
 .img {
   width: 28rem;
   height: 60rem;
+
+  object-fit: cover;
+  object-position: center;
 }
 
 .img1,
